@@ -18,6 +18,15 @@ https://www.linkedin.com/in/himansu-pradhan-2512761b7 | himan9131@gmail.com
 +91 7894960240 | himanshusekhar544@gmail.com
 
 #### Social profile:
+[1]: https://www.linkedin.com/in/himansu-pradhan-2512761b7
+[2]: https://twitter.com/himansu_x
+[3]: https://www.facebook.com/profile.php?id=100010685678796
+[4]: https://www.instagram.com/hpofficial_9131
+
+[![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/7ef65900-3e4c-42b0-8d5e-7b1abaa98073)][1]
+[![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/42f6b09a-71ac-463e-8516-e6919f37d86b)][2]
+[![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/02090010-21b8-4531-bd41-13a5dcd05f2c)][3]
+[![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/f887f7c5-4d4c-4a1b-8794-b12b4cac67c2)][4]
 
 <!--
 **Himan-9131/Himan-9131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
