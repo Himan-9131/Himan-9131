@@ -29,11 +29,11 @@ https://www.linkedin.com/in/himansu-pradhan-2512761b7 | himan9131@gmail.com
 [![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/f887f7c5-4d4c-4a1b-8794-b12b4cac67c2)][4]
 
 #### Toolset:
-Language | <img src="https://icons8.com/icon/20909/html-5" width="" height="">
-
------------- | ----- | ------
-Framework |
-Tools |
+|Text | Icons |
+| ------ | ------- |
+|Technology| <img src="https://www.freepik.com/icon/html-5_732212#fromView=search&page=1&position=7&uuid=cfdd841f-608a-4c93-a6b3-0ad09544b0f5" width="50px" height="60px" /> <img src="" width="50px" height="60px"> <img src="" width="50px" height="60px"> |
+|Framework| <img src="" width="50px" height="60px"> <img src="" width="50px" height="60px"> <img src="" width="50px" height="60px"> <img src="" width="50px" height="60px"> |
+|Tools| <img src="" width="50px" height="70px"> <img src="" width="50px" height="70px"> <img src="" width="50px" height="70px"> <i class="fa-brands fa-html5"></i> |
 
 <!--
 **Himan-9131/Himan-9131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
