@@ -31,9 +31,9 @@ https://www.linkedin.com/in/himansu-pradhan-2512761b7 | himan9131@gmail.com
 #### Toolset:
 |Text | Icons |
 | ------ | ------- |
-|Technology| <img src="https://www.freepik.com/icon/html-5_732212#fromView=search&page=1&position=7&uuid=cfdd841f-608a-4c93-a6b3-0ad09544b0f5" width="50px" height="60px" /> <img src="" width="50px" height="60px"> <img src="" width="50px" height="60px"> |
-|Framework| <img src="" width="50px" height="60px"> <img src="" width="50px" height="60px"> <img src="" width="50px" height="60px"> <img src="" width="50px" height="60px"> |
-|Tools| <img src="" width="50px" height="70px"> <img src="" width="50px" height="70px"> <img src="" width="50px" height="70px"> <i class="fa-brands fa-html5"></i> |
+|Technology| ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/44bc5da4-3b5a-4914-8270-c778687a0a35) ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/7cba1995-62f6-4031-ba7b-f2d24fe2323e) ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/be9ad7b9-9954-4895-ab15-90257995576d) |
+|Framework| ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/d19a2547-afdb-4963-a9b6-79dcabf28f02) ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/f1dd055d-bb19-4f98-8086-1dc8965401f9) ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/cbc211c0-d6a2-4dd6-85bb-9bcc9ccca999) ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/375df703-043d-4292-a7df-93b599f97c68) ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/11edafcc-5498-4806-8f90-e1446324aeac) |
+|Tools| ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/2b1dbab8-67f0-4e45-9134-dac1c72844fe) ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/b1980ca5-a6fe-4d2d-974d-1410d3209b1e) ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/97754b21-e56a-452c-91d2-546e819578a9) ![image](https://github.com/Himan-9131/Himan-9131/assets/120475007/774c35a2-e88a-48f4-88ec-d369a3508fde) |
 
 <!--
 **Himan-9131/Himan-9131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
