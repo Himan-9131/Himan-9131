@@ -1,6 +1,6 @@
 
-# Hello there 👋, I'm Himansu Pradhan
-**React/UI/Software Developer**
+# Hello there 👋, I'm Himansu Sekhar Pradhan
+**React/User Interface/Web/Software Developer**
 
 - 🔭 I’m currently searching for **Frontend Developer** role
 - 🌱 I’m currently learning: **Full Stack Development** with **React and Node**
